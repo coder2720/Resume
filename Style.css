@@ -54,11 +54,10 @@ body{
 
 .profile .imgme img{
     position: absolute;
-    top: -11px;
-    left: -9px;
-    width: 111%;
-    height: 114%;
-    
+    top: -13px;
+    left: -26px;
+    width: 120%;
+    height: 115%;    
 }
 
 .profile h2{
